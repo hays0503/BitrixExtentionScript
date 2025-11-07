@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Fetch Lead Data from Bitrix CRM with Calendar
 // @namespace    http://tampermonkey.net/
-// @version      0.7
+// @version      0.71
 // @description  Extract lead data from Bitrix CRM and display events in a calendar modal
 // @author       You
 // @match        https://bitrix.triline.kz/*
