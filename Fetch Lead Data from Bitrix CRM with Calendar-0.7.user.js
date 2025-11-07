@@ -26,8 +26,8 @@
             top: 50%;
             left: 50%;
             transform: translate(-50%, -50%);
-            border: 4px solid rgba(255, 255, 255, 0.3);
-            border-top: 4px solid #000;
+            border: 4px solid rgba(231, 247, 13, 0.3);
+            border-top: 4px solid #7e0909ff;
             border-radius: 50%;
             width: 50px;
             height: 50px;
